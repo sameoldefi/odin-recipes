@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue;
+}
+
+.header-img {
+    background-color: cornsilk;
+    text-align: center;
+    border-radius: 10px;
+    border: solid 2px darkblue;
+}
+
+.babish {
+    filter: brightness(110%) contrast(110%);
+}
+
+.info {
+    background-color: cornsilk;
+    border: solid 2px darkblue;
+    margin-top: 10px;
+    padding-left: 5px;
+    border-radius: 5px;
+}
+
+.banner {
+    width: 1000px;
+    height: auto;
+    text-align: center;
+}
+
+.list {
+    background-color: cornsilk;
+    border: solid 2px darkblue;
+    margin-top: 10px;
+    padding-left: 5px;
+    border-radius: 5px;
+}
+.list-center {
+    padding-left: 70px;
+    font-weight: bold;
+}
+.li1, .li2, .li3, .li4, .li5 {
+    padding-top: 10px;
+}
+.space {
+    margin-top: 50px;
+}
