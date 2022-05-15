@@ -25,7 +25,11 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
 
 }
-
+.ul-list {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+}
 
 .banner {
     width: 1000px;
